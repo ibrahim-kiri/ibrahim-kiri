@@ -35,7 +35,6 @@ I enjoy architecting systems, simplifying complexity, and continuously improving
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-## 📫 Let's Connect!  
 🌐 [Portfolio](https://ibrahim-kiri.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/kiri-ibrahim/)
 
 </div>
