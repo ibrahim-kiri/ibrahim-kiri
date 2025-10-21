@@ -10,15 +10,10 @@
 ---
 
 ## About Me  
-I’m a **Full-Stack Developer** who loves building software that solves real problems and delivers great user experiences.  
+I’m a **Full-Stack Developer** who loves building software that solves real problems and delivers great user experiences. My passion for software development was clear, but my journey initially led me into **Network and System Administration**. While that path strengthened my understanding of systems and infrastructure, my heart was always drawn back to **software development**. That passion reignited when I realized that through code, I could **build something meaningful, tools people can use freely, and technology that can change the world in positive ways**.  
+Software, to me, isn’t just a career, it’s a way to make impact.  
 
-After graduating from university, my passion for software development was clear — but my journey initially led me into **Network and System Administration**.  
-While that path strengthened my understanding of systems and infrastructure, my heart was always drawn back to **software development**.  
-
-That passion reignited when I realized that through code, I could **build something meaningful — tools people can use freely, and technology that can change the world in positive ways**.  
-Software, to me, isn’t just a career — it’s a way to make impact.  
-
-I believe good code should not only work — it should *feel right*.  
+I believe good code should not only work, it should *feel right*.  
 I enjoy architecting systems, simplifying complexity, and continuously improving.  
 
 ---
@@ -52,7 +47,5 @@ I enjoy architecting systems, simplifying complexity, and continuously improving
 
 ## 📫 Let's Connect!  
 🌐 [Portfolio](https://ibrahim-kiri.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/kiri-ibrahim/)
-
-> “Great software isn’t just built — it’s *crafted* through creativity, discipline, and curiosity.”
 
 </div>
