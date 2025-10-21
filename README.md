@@ -2,12 +2,11 @@
 
 # Hey, I'm Ibrahim  
 
-💻 **Software Developer**  
-⚙️ Passionate about crafting scalable and elegant software solutions  
-🌍 Ugandan roots | Open to global collaboration  
-🎧 Music fuels my creativity |  ⚽ Football keeps me sharp
+**Software Developer**  
+Ugandan | Open to global collaboration  
+🎧 Music is my guy |  ⚽ Football keeps me sharp
 
----
+
 
 ## About Me  
 I’m a **Full-Stack Developer** who loves building software that solves real problems and delivers great user experiences. My passion for software development was clear, but my journey initially led me into **Network and System Administration**. While that path strengthened my understanding of systems and infrastructure, my heart was always drawn back to **software development**. That passion reignited when I realized that through code, I could **build something meaningful, tools people can use freely, and technology that can change the world in positive ways**.  
@@ -16,7 +15,6 @@ Software, to me, isn’t just a career, it’s a way to make impact.
 I believe good code should not only work, it should *feel right*.  
 I enjoy architecting systems, simplifying complexity, and continuously improving.  
 
----
 
 ## 🧠 Tech Stack
 
@@ -43,7 +41,6 @@ I enjoy architecting systems, simplifying complexity, and continuously improving
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
 
 ## 📫 Let's Connect!  
 🌐 [Portfolio](https://ibrahim-kiri.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/kiri-ibrahim/)
